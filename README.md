@@ -9,3 +9,5 @@ Following along with playlist
 - [ ] dependency injection
 - [ ] facade
 - [ ] singleton
+
+[Fireship.io TS Design patterns](https://fireship.io/lessons/typescript-design-patterns/)
